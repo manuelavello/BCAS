@@ -16,7 +16,7 @@ https://www.figma.com/proto/0ZOMMiYeBdTnAl8hVtKLRs/BCAS?page-id=313%3A2&node-id=
 
 ## DOCUMENTACIÓN
 
-Array de becas a filtar:
+Array de becas:
 ```
 [
   { 
@@ -51,8 +51,13 @@ Debes montar tu proyecto:
 1. Crear un proyecto con https://create-react-app.dev/
 2. Agregar eslint (seguir un estilo de código)
 3. Añadir routing
-4. Hacer una llamada a la API.
-5. Subir el proyecto a un repositorio. 
+4. Hacer una llamada a la API para comprobar el user
+5. Filtrar array de becas según la información que haya introducido el usuario
+6. Ofrecer un resultado de becas que están disponibles según sus datos
+7. Subir el proyecto a un repositorio
+
+## EXTRAS
+1. Desplegar la applicación en Firebase
 
 ## SE VALORARÁ
 1. Similitud de la applicación con el diseño.
