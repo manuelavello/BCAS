@@ -39,10 +39,10 @@ province: Andalucia
 },
 ]
 ```
-Listado de emails: https://jsonplaceholder.typicode.com/users
+Listado de emails: https://jsonplaceholder.typicode.com/users. 
 Animaciones: https://lottiefiles.com/, en concreto hemos usado esta: https://lottiefiles.com/35875-confetti-on-transparent-background
 
 **#REQUSITOS**
-Debes montar tu proyecto:
-1. Debes meter X, debes meter Y
-2. Entrega del proyecto
+Debes montar tu proyecto:  
+1. Debes meter X, debes meter Y. 
+2. Entrega del proyecto. 
