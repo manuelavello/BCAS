@@ -50,5 +50,10 @@ Array de becas a filtar:
 Debes montar tu proyecto:
 1. Crear un proyecto con https://create-react-app.dev/
 2. Agregar eslint (seguir un estilo de código)
-3. Hacer una llamada a la API para traer los users.
-4. Subir el proyecto a un repositorio. 
+3. Hacer una llamada a la API.
+5. Subir el proyecto a un repositorio. 
+
+## SE VALORARÁ
+1. Similitud de la applicación con el diseño.
+2. Uniformidad del código.
+3. Estructura del código.
