@@ -26,7 +26,7 @@ minimumMark: none
 { 
 Name:Becas para el estudio de Programas de Segunda Oportunidad, correspondiente al curso 2021-2022,
 minimumAge: 18,
-province: Barcelona,
+province: Cataluña,
 minimumMark: none
 },
 { 
