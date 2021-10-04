@@ -16,7 +16,7 @@ https://www.figma.com/proto/0ZOMMiYeBdTnAl8hVtKLRs/BCAS?page-id=313%3A2&node-id=
 **#DOCUMENTACIÓN**
 
 Array de becas a filtar:
-
+```
 [{ 
 Name:Becas escolares curso 2021 -2022 primer ciclo educación infantil,
 minimumAge: 18,
@@ -38,7 +38,7 @@ minimumAge: none,
 province: Andalucia 
 },
 ]
-
+```
 Listado de emails: https://jsonplaceholder.typicode.com/users
 Animaciones: https://lottiefiles.com/, en concreto hemos usado esta: https://lottiefiles.com/35875-confetti-on-transparent-background
 
