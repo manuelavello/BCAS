@@ -4,9 +4,9 @@
 
 Hola humano! Hoy tienes como cometido crear un producto que hemos decidido apodar 'Cristóbal'. Cristóbal, como su propio nombre indica, tiene facilidad para explorar y descubrir. En concreto, su especialidad es buscar becas para cursar estudios y no tener que preocuparse por el elevado coste de los mismos. Como puedes ver, esto es una herramienta muy útil para cualquier estudiante.
 
-El buscador tiene un funcionamiento relativamente sencillo. El estudiante introduce sus datos personales y, en base a los mismos, le indicamos cuál de nuestras becas le encaja.
+El buscador tiene un funcionamiento relativamente sencillo. El estudiante introduce sus datos personales y, en base a los mismos, le indicamos para cuál de nuestras becas es 'apto' o 'no apto'.
 
-Vamos a poner una única limitación. Para poder ver el resultado de la búsqueda, el usuario tiene que introducir su correo electrónico. **No hace falta que hagas un proceso de autenticación**. La única limitación es que a la hora de introducir el email, vamos a restringir los emails permitidos, debe ser alguno de los que aparece en esta lista: https://jsonplaceholder.typicode.com/users. 
+Para poder ver el resultado de la búsqueda, el usuario tiene que introducir su correo electrónico. **No hace falta que hagas un proceso de autenticación**. La única limitación es que a la hora de introducir el email, vamos a restringir los emails permitidos, debe ser alguno de los que aparece en esta lista: https://jsonplaceholder.typicode.com/users. 
 
 **#DISEÑO DE CRISTÓBAL**
 
