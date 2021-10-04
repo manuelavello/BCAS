@@ -1,6 +1,6 @@
 # PRUEBA FRONT-END
 
-**#INTRODUCCIÓN**
+**## INTRODUCCIÓN**
 
 Hola humano! Hoy tienes como cometido crear un producto que hemos decidido apodar 'Cristóbal'. Cristóbal, como su propio nombre indica, tiene facilidad para explorar y descubrir. En concreto, su especialidad es buscar becas para cursar estudios y no tener que preocuparse por el elevado coste de los mismos. Como puedes ver, esto es una herramienta muy útil para cualquier estudiante.
 
@@ -9,12 +9,12 @@ El buscador tiene un funcionamiento relativamente sencillo. El estudiante introd
 Para poder ver el resultado de la búsqueda, el usuario tiene que introducir su correo electrónico. **No hace falta que hagas un proceso de autenticación**. La única limitación es que a la hora de introducir el email, vamos a restringir los emails permitidos, debe ser alguno de los que aparece en esta lista: https://jsonplaceholder.typicode.com/users.
 Deberás de realizar una petición a ese endooint y comprobar si el email que ha introducido el usuario se encuentra entre los resultados.
 
-**#DISEÑO DE CRISTÓBAL**
+**## DISEÑO DE CRISTÓBAL**
 
 Puedes encontrar el diseño y la interacción de Cristóbal aquí
 https://www.figma.com/proto/0ZOMMiYeBdTnAl8hVtKLRs/BCAS?page-id=313%3A2&node-id=2631%3A10301&viewport=397%2C48%2C0.23&scaling=min-zoom&starting-point-node-id=2631%3A10301
 
-**#DOCUMENTACIÓN**
+**## DOCUMENTACIÓN**
 
 Array de becas a filtar:
 ```
@@ -46,7 +46,7 @@ Array de becas a filtar:
 ]
 ```
 
-**#REQUISITOS DE LA PRUEBA**
+**## REQUISITOS DE LA PRUEBA**
 Debes montar tu proyecto:
 1. Crear un proyecto con https://create-react-app.dev/
 2. Agregar eslint (seguir un estilo de código)
