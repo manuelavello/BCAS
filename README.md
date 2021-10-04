@@ -61,5 +61,5 @@ Debes montar tu proyecto:
 
 ## SE VALORARÁ
 1. Similitud de la applicación con el diseño.
-2. Uniformidad del código.
+2. Uniformidad y limpieza del código.
 3. Estructura del código.
