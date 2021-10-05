@@ -7,7 +7,7 @@ Hola humano! Hoy tienes como cometido crear un producto que hemos decidido apoda
 El buscador tiene un funcionamiento relativamente sencillo. El estudiante introduce sus datos personales y, en base a los mismos, le indicamos para cuál de nuestras becas es 'apto' o 'no apto'.
 
 Para poder ver el resultado de la búsqueda, el usuario tiene que introducir su correo electrónico. **No hace falta que hagas un proceso de autenticación**. La única limitación es que a la hora de introducir el email, vamos a restringir los emails permitidos, debe ser alguno de los que aparece en esta lista: https://jsonplaceholder.typicode.com/users.
-Deberás de realizar una petición a ese endooint y comprobar si el email que ha introducido el usuario se encuentra entre los resultados.
+Deberás de realizar una petición a ese endpoint y comprobar si el email que ha introducido el usuario se encuentra entre los resultados.
 
 ## DISEÑO DE CRISTÓBAL
 
