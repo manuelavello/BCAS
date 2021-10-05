@@ -11,8 +11,7 @@ Deberás de realizar una petición a ese endooint y comprobar si el email que ha
 
 ## DISEÑO DE CRISTÓBAL
 
-Puedes encontrar el diseño y la interacción de Cristóbal aquí
-https://www.figma.com/proto/0ZOMMiYeBdTnAl8hVtKLRs/BCAS?page-id=313%3A2&node-id=2631%3A10301&viewport=397%2C48%2C0.23&scaling=min-zoom&starting-point-node-id=2631%3A10301
+Puedes encontrar el diseño y la interacción de Cristóbal aquí https://www.figma.com/file/EaaDXqWeMlBdaDtriHPyvc/Prueba-técnica-Cristóbal?node-id=0%3A1
 
 ## DOCUMENTACIÓN
 
